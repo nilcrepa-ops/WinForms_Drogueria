@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ácido Lisérgico (Precursor)",
+        "categoria": "Alcaloides",
+        "preciokg": 1500.0,
+        "stockkg": 2.5
+    },
+    {
+        "id": 2,
+        "nombre": "Clorhidrato de Ketamina (Cristal)",
+        "categoria": "Disociativos",
+        "preciokg": 350.0,
+        "stockkg": 12.0
+    },
+    {
+        "id": 3,
+        "nombre": "Salvia Divinorum (Extracto 80x)",
+        "categoria": "Entégenos",
+        "preciokg": 850.0,
+        "stockkg": 5.0
+    },
+    {
+        "id": 4,
+        "nombre": "Mescalina Pura (Polvo cristalino)",
+        "categoria": "Fenetilaminas",
+        "preciokg": 2200.0,
+        "stockkg": 1.2
+    },
+    {
+        "id": 5,
+        "nombre": "Ibogaína HCl (Extracto raíz)",
+        "categoria": "Triptaminas",
+        "preciokg": 1800.0,
+        "stockkg": 3.0
+    }
+]
