@@ -1,8 +1,12 @@
-# Entorno virtual
-.venv/
+# Python
 venv/
-ENV/
-env/
-
-# Caché de Python
 __pycache__/
+*.py[cod]
+
+# Visual Studio / C# (.NET)
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
