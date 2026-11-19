@@ -10,7 +10,8 @@ initial_products = [
     {"id": 2, "nombre": "Clorhidrato de Ketamina (Cristal)", "categoria": "Disociativos", "preciokg": 350.00, "stockkg": 12.0},
     {"id": 3, "nombre": "Salvia Divinorum (Extracto 80x)", "categoria": "Entégenos", "preciokg": 850.00, "stockkg": 5.0},
     {"id": 4, "nombre": "Mescalina Pura (Polvo cristalino)", "categoria": "Fenetilaminas", "preciokg": 2200.00, "stockkg": 1.2},
-    {"id": 5, "nombre": "Ibogaína HCl (Extracto raíz)", "categoria": "Triptaminas", "preciokg": 1800.00, "stockkg": 3.0}
+    {"id": 5, "nombre": "Ibogaína HCl (Extracto raíz)", "categoria": "Triptaminas", "preciokg": 1800.00, "stockkg": 3.0},
+    {"id": 6, "nombre": "MDMA (Cristal)", "categoria": "Entactógenos", "preciokg": 1200.00, "stockkg": 4.5}
 ]
 
 def load_data(file_path: str, default_data: list) -> list:
